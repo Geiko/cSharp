@@ -1,0 +1,8 @@
+D:\My\IT\ШАГ\8 C#\DZ\DZ 10 Serialization. Attribute\DZ9\DZ9\bin\Debug\DZ9.exe.config
+D:\My\IT\ШАГ\8 C#\DZ\DZ 10 Serialization. Attribute\DZ9\DZ9\obj\Debug\DZ9.csprojResolveAssemblyReference.cache
+D:\My\IT\ШАГ\8 C#\DZ\DZ 10 Serialization. Attribute\DZ9\DZ9\bin\Debug\DZ9.exe
+D:\My\IT\ШАГ\8 C#\DZ\DZ 10 Serialization. Attribute\DZ9\DZ9\bin\Debug\DZ9.pdb
+D:\My\IT\ШАГ\8 C#\DZ\DZ 10 Serialization. Attribute\DZ9\DZ9\obj\Debug\DZ9.exe
+D:\My\IT\ШАГ\8 C#\DZ\DZ 10 Serialization. Attribute\DZ9\DZ9\obj\Debug\DZ9.pdb
+D:\My\IT\ШАГ\8 C#\DZ\DZ 10 Serialization. Attribute\DZ9\DZ9\bin\Debug\Newtonsoft.Json.dll
+D:\My\IT\ШАГ\8 C#\DZ\DZ 10 Serialization. Attribute\DZ9\DZ9\bin\Debug\Newtonsoft.Json.xml

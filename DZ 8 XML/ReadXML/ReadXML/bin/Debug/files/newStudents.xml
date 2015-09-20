@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tns:students xsi:schemaLocation="http://itstep.org/students students.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://itstep.org/students">
+  <student login="log" faculty="fac">
+    <name>Natasha</name>
+    <phone>324587</phone>
+    <address>
+      <country>UA</country>
+      <city>DP</city>
+      <street>KM</street>
+    </address>
+  </student>
+  <student login="log2" faculty="fac2">
+    <name>Lola</name>
+    <phone>98765</phone>
+    <address>
+      <country>USA</country>
+      <city>SD</city>
+      <street>SP</street>
+    </address>
+  </student>
+</tns:students>

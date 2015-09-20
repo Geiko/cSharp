@@ -1,0 +1,46 @@
+default_directory=.
+editor=notepad.exe {file}
+#Обязательные элементы
+#Тут ключ - название страны, которое будет отображаться в меню, значение - условное обозначение для дальнейшего использования в манифесте
+countries {
+	Ukraine=ukr
+	United States=us
+}
+#Тут ключ - страна (из раздела countries), значение - название составной единицы (область, штат) для отображения в меню
+distincts {
+	ukr=region
+	us=state
+}
+#Ключ - название страны, значение - имя папки в default_directory, в которой находится информация по стране
+folders {
+	ukr=ukr
+	us=us
+}
+#Элементы, наличие которых определяется из элементов выше
+#описание Украины. Tyт, например, dp - имя папки, в которох хранятся файлы с городами Днепропетровской области
+ukr {
+	Kiev=kiev
+	Dnepropetrovsk=dp
+}
+dp {
+	Dnepropetrovsk=dp.txt
+	Dneprodzerzhinsk=dpz.txt
+}
+kiev {
+	Kiev=kiev.txt
+	Irpen=irp.txt
+}
+
+#описание США
+us {
+	Illinois=il
+	Texas=tx
+}
+il {
+	Chikago=chkg.txt
+	Avrora=avrora.txt
+}
+tx {
+	Dalas=dls.txt
+	Arlington=arl.txt
+}

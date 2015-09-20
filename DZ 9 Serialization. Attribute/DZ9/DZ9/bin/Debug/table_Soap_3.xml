@@ -1,0 +1,10 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Table id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/geiko.DZ9.Entities/DZ9%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_MinBet_x003E_k__BackingField>1</_x003C_MinBet_x003E_k__BackingField>
+<_x003C_MaxBet_x003E_k__BackingField>5</_x003C_MaxBet_x003E_k__BackingField>
+<_x003C_MyScore_x003E_k__BackingField>16</_x003C_MyScore_x003E_k__BackingField>
+<_x003C_ShufflerScore_x003E_k__BackingField>24</_x003C_ShufflerScore_x003E_k__BackingField>
+</a1:Table>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

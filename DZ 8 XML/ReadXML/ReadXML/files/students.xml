@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:students xmlns:tns="http://itstep.org/students"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://itstep.org/students students.xsd"
+		>
+	<student login="vas" faculty="programming">
+		<name>Vasya Pupkin</name>
+		<phone>3323233232</phone>
+		<address>
+			<country>UA</country>
+			<city>DP</city>
+			<street>KM</street>
+		</address>
+	</student>
+	<student login="pet" faculty="programming">
+		<name>Petya Grishin</name>
+		<phone>4454577845</phone>
+		<address>
+			<country>UA</country>
+			<city>DP</city>
+			<street>KM</street>
+		</address>
+	</student>
+</tns:students>

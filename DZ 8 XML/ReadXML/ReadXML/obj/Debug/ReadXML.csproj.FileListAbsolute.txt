@@ -1,0 +1,6 @@
+D:\gh\cSharp\cSharp\DZ 8 XML\ReadXML\ReadXML\bin\Debug\ReadXML.exe.config
+D:\gh\cSharp\cSharp\DZ 8 XML\ReadXML\ReadXML\bin\Debug\ReadXML.exe
+D:\gh\cSharp\cSharp\DZ 8 XML\ReadXML\ReadXML\bin\Debug\ReadXML.pdb
+D:\gh\cSharp\cSharp\DZ 8 XML\ReadXML\ReadXML\obj\Debug\ReadXML.csprojResolveAssemblyReference.cache
+D:\gh\cSharp\cSharp\DZ 8 XML\ReadXML\ReadXML\obj\Debug\ReadXML.exe
+D:\gh\cSharp\cSharp\DZ 8 XML\ReadXML\ReadXML\obj\Debug\ReadXML.pdb
